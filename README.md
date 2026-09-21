@@ -1,3 +1,5 @@
+![AI CV screening: folder of CVs to ranked shortlist](assets/banner.svg)
+
 # AI CV screening
 
 An AI recruiter assistant built as a Claude Cowork project. It reads a folder of CVs, compares every candidate with the job description and returns a ranked shortlist with reasons and an Excel report.
